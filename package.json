@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "2.0.0-alpha.3",
+  "version": "2.0.0-alpha.4",
   "description": "React [higher-order component](https://gist.github.com/sebmarkbage/ef0bf1f338a7182b6775) to get dimensions of container",
   "main": "index.js",
   "standard": {
